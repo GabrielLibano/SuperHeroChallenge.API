@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SuperHeroChallenge.ACL\SuperHeroChallenge.ACL.csproj" />
+    <ProjectReference Include="..\SuperHeroChallenge.Domain\SuperHeroChallenge.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

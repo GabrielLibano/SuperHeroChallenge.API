@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.Service.deps.json
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.Service.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\ref\SuperHeroChallenge.Service.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.Service.pdb
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.ACL.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.Domain.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.ACL.pdb
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\bin\Debug\net5.0\SuperHeroChallenge.Domain.pdb
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.AssemblyInfo.cs
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.csproj.CopyComplete
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\ref\SuperHeroChallenge.Service.dll
+C:\Users\gabri\source\repos\SuperHeroChallenge.Service\obj\Debug\net5.0\SuperHeroChallenge.Service.pdb
