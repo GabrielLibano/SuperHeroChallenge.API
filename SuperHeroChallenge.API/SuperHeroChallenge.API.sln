@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperHeroChallenge.API", "SuperHeroChallenge.API.csproj", "{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{DA1D119E-4A5B-43B1-A7DC-92120FE6C51B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{F2FE8690-DD36-4652-BB2E-E09A7F661079}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Services", "3 - Services", "{48E4B0CE-670B-479B-8319-6A2619031769}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{9A4B0FB7-D0D0-44AD-81E4-5D004DCA10C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - ACL", "5 - ACL", "{FE132E67-C803-496D-92E1-49406902CB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroChallenge.Service", "..\SuperHeroChallenge.Service\SuperHeroChallenge.Service.csproj", "{164E170F-FCFF-4636-806D-69C64D709A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroChallenge.Domain", "..\SuperHeroChallenge.Domain\SuperHeroChallenge.Domain.csproj", "{DB131666-C872-44F2-B6F5-39A3B1448E46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.1 - MarvelAPI", "5.1 - MarvelAPI", "{B6EC6B94-87A0-49E2-A5C8-A8D93C8EAEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroChallenge.ACL", "..\SuperHeroChallenge.ACL\SuperHeroChallenge.ACL.csproj", "{0A019016-0202-447A-A906-AE838AD14288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164E170F-FCFF-4636-806D-69C64D709A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164E170F-FCFF-4636-806D-69C64D709A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164E170F-FCFF-4636-806D-69C64D709A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164E170F-FCFF-4636-806D-69C64D709A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB131666-C872-44F2-B6F5-39A3B1448E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB131666-C872-44F2-B6F5-39A3B1448E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB131666-C872-44F2-B6F5-39A3B1448E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB131666-C872-44F2-B6F5-39A3B1448E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A019016-0202-447A-A906-AE838AD14288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A019016-0202-447A-A906-AE838AD14288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A019016-0202-447A-A906-AE838AD14288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A019016-0202-447A-A906-AE838AD14288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E9AA14C0-7503-4A68-AF7A-7B439BDFCD7F} = {DA1D119E-4A5B-43B1-A7DC-92120FE6C51B}
+		{164E170F-FCFF-4636-806D-69C64D709A57} = {48E4B0CE-670B-479B-8319-6A2619031769}
+		{DB131666-C872-44F2-B6F5-39A3B1448E46} = {F2FE8690-DD36-4652-BB2E-E09A7F661079}
+		{B6EC6B94-87A0-49E2-A5C8-A8D93C8EAEAC} = {FE132E67-C803-496D-92E1-49406902CB66}
+		{0A019016-0202-447A-A906-AE838AD14288} = {B6EC6B94-87A0-49E2-A5C8-A8D93C8EAEAC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB21CB8-8FC1-4A31-BEE7-CB8F509ABBD0}
+	EndGlobalSection
+EndGlobal
